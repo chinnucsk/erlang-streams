@@ -2,7 +2,7 @@ erlang-streams
 ==============
 
 
-A module for working with streams in Erlang. Not a new idea, just a new
+An Erlang module for working with streams. Not a new idea, just a new
 implementation (inspired by [stream.js](http://streamjs.org/)).
 
 
